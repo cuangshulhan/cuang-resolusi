@@ -3,6 +3,7 @@ RENCANA KONTEN CUANG
 - Javascript
   * ES6
   * JS Framework
+- Fundamental Data Struktur
 - Php Framework
 - Interview
 - Vlogs
