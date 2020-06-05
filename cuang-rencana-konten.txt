@@ -3,7 +3,11 @@ RENCANA KONTEN CUANG
 - Javascript
   * ES6
   * JS Framework
+    ^ Vue
+    ^ React
 - Fundamental Data Struktur
 - Php Framework
+  ^ Laravel
 - Interview
 - Vlogs
+- Phyton
