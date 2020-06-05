@@ -4,6 +4,7 @@ RENCANA KONTEN CUANG
   * ES6
   * JS Framework
     ^ Vue
+    ^ React
 - Fundamental Data Struktur
 - Php Framework
   ^ Laravel
