@@ -1,6 +1,8 @@
 RENCANA KONTEN CUANG
 
 - Javascript
+  * ES6
+  * JS Framework
 - Php Framework
 - Interview
 - Vlogs
